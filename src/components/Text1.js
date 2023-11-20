@@ -18,10 +18,10 @@ const Text1ContainerRoot = styled.div`
 const Text1 = () => {
   return (
     <Text1ContainerRoot>
-      <Text1>{`Let us help you to find the best stay `}</LetUsHelp1>
-      <Text1>which is no less than a home ---</LetUsHelp1>
-      <Text1>to the best of your budget, security and</LetUsHelp1>
-      <Text1>comfort. Happy Stay!</LetUsHelp1>
+      <Text1>{`Let us help you to find the best stay `}</Text1>
+      <Text1>which is no less than a home ---</Text1>
+      <Text1>to the best of your budget, security and</Text1>
+      <Text1>comfort. Happy Stay!</Text1>
     </Text1ContainerRoot>
   );
 };
